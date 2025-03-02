@@ -12,3 +12,7 @@ To install, follow these steps:
 
 ## Showcase
 ![image](https://github.com/user-attachments/assets/19b29063-fe37-49ab-be01-6d32155968e1)
+
+![Discord_1wCKXwPTur](https://github.com/user-attachments/assets/b511f489-a075-422d-b478-eb1ebda88c64)
+![Discord_JONYhXQ5TU](https://github.com/user-attachments/assets/85e164fb-3e55-40b0-b663-1da45b171c6f)
+![Discord_VqS87uNfFN](https://github.com/user-attachments/assets/37d21e19-50ef-4736-bbc1-dec7bb70037c)
