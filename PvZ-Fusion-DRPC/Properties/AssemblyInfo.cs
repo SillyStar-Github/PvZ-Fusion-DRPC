@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 using MelonLoader;
 using PvZ_Fusion_DRPC;
 // ...
-[assembly: MelonInfo(typeof(PvZ_Fusion_DRPC.Main), "PvZ Fusion Discord Rich Presence", "1.0.0", "cassidy")]//MelonInfo(typeof(ClassOfMod), "Game Mod Name", "Version", "Author")
+[assembly: MelonInfo(typeof(PvZ_Fusion_DRPC.Main), "PvZ Fusion Discord Rich Presence", "1.1.0", "cassidy")]//MelonInfo(typeof(ClassOfMod), "Game Mod Name", "Version", "Author")
 [assembly: MelonGame("LanPiaoPiao", "PlantsVsZombiesRH")]
 
 // General Information about an assembly is controlled through the following
