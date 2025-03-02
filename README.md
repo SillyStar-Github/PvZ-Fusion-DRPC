@@ -6,6 +6,8 @@ To install, follow these steps:
 1. Install MelonLoader into PvZ Fusion. Download MelonLoader [here](https://melonwiki.xyz/#/) and when you open the app, find where PvZ Fusion is located and select the "PlantsVSZombiesRH.exe" file.
 2. Go to [Releases](https://github.com/SillyStar-Github/PvZ-Fusion-DRPC/releases) and download the latest version, then extract that .zip file in your game directory.
 
+### [Video Tutorial Here](https://youtu.be/THaEUZXbuxw)
+
 ## Extra Steps
 - Make sure your activity is being shared while using the mod. 
 - Make sure you do not have the game added to your normal Discord Game Activity settings.
