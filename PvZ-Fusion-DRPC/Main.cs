@@ -23,18 +23,18 @@ namespace PvZ_Fusion_DRPC
         public override void OnUpdate()
         {
             switch (GameAPP.theGameStatus) {
-                case (int)GameStatus.InGame:
+                case GameStatus.InGame:
                     Presence.state = "Fusing and fighting off the zombies";
                     Presence.startTimestamp = default(long);
                     break;
-                case (int)GameStatus.Pause:
+                case GameStatus.Pause:
                     Presence.state = "Fusing and fighting off the zombies";
                     break;
-                case (int)GameStatus.Selecting:
+                case GameStatus.Selecting:
                     Presence.state = "Choosing my seeds...";
                     Presence.startTimestamp = default(long);
                     break;
-                case (int)GameStatus.Almanac:
+                case GameStatus.Almanac:
                     Presence.state = "Reading the Almanac";
                     Presence.startTimestamp = default(long);
                     break;
